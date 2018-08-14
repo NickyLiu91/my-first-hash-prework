@@ -46,6 +46,6 @@ def adding
 
   # return the shipping_manifest hash below
 
-  return 5
+  return shipping_manifest["oil paintings"]
 
 end
